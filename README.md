@@ -3,3 +3,4 @@ This is a library of solid widgets, frames, and code for things solid that a typ
 # Incorporate solid Code on Your Website:
 Feel free to fork this repo and make your own changes and use cases.
 See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/widget.html#)
+See a Sample Top Nav Bar [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/Top-Nav-Bar.html#)
