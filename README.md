@@ -5,4 +5,5 @@ Feel free to fork this repo and make your own changes and use cases.
 See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/widget.html#)
 See a Sample Top Nav Bar [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/Top-Nav-Bar.html#)
 # Incorporate the solid Mashlib Data Browser Code on Your Website:
-What we have hear is an instance of the data browser calling up a specific URL and placing it into a data browser window. This could be a docuemtn that it points to, a photo, or another URI entirely.
+Use the data browser as a web app on your website to point to a specific document, photo, or URI of your choice.
+See a Sample Top Nav Bar [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/solid-browser.html#)
