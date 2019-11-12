@@ -7,3 +7,4 @@ See a Sample Top Nav Bar [live on github pages](https://mikeadams1.github.io/Sol
 # Incorporate the solid Mashlib Data Browser Code on Your Website:
 Use the data browser as a web app on your website to point to a specific document, photo, or URI of your choice.
 See a Sample Top Nav Bar [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/solid-browser.html#)
+# Log into multipal solid pods at the same time in the same window on any website:
