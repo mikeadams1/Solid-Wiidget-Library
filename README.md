@@ -8,3 +8,6 @@ See a Sample Top Nav Bar [live on github pages](https://mikeadams1.github.io/Sol
 Use the data browser as a web app on your website to point to a specific document, photo, or URI of your choice.
 See a Sample Top Nav Bar [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/solid-browser.html#)
 # Log into multipal solid pods at the same time in the same window on any website:
+
+# Here is a good use case for file folder view of a Solid Pod:
+See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/#)
