@@ -10,4 +10,8 @@ See a Sample Top Nav Bar [live on github pages](https://mikeadams1.github.io/Sol
 # Log into multipal solid pods at the same time in the same window on any website:
 
 # Here is a good use case for file folder view of a Solid Pod:
-See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/#)
+See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/solid-file.html#)
+
+
+# Here is a draggable file anywnere:
+See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/drag.html#)
