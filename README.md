@@ -15,3 +15,6 @@ See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidg
 
 # Here is a draggable file anywnere:
 See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/drag.html#)
+
+# This is the Solid Caret that is used to access files in the data browser:
+See some widgets [live on github pages](https://mikeadams1.github.io/Solid-Wiidget-Library/solid-caret.html#)
